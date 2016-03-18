@@ -1,0 +1,41 @@
+.form-review{
+    width: 40%;
+}
+.reviews{
+    margin-top: 20px;
+}
+.date, .author{
+    font-size: 0.8em;
+    margin-left: 10px;
+}
+.content{
+    padding-top: 5px;
+    padding-left: 15px;
+}
+.entry{
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+}
+.my{
+    padding-top: 50px;
+
+}
+.btn_auth{
+    padding-left: 80px;
+}
+.btn_reg{
+    padding-left: 70px;
+    text-align: center;
+}
+#chat{
+    border: 3px solid #1b6d85;
+    height: 500px;
+    margin: 0 auto;
+    overflow: auto;
+    width: 450px;
+    border-radius: 5px;
+    background-color: #a6e1ec;
+}
